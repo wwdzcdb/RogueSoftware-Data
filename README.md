@@ -16,7 +16,7 @@ InstDir_x64 = "x64安装路径"**
 
 # 改进及更新
 
-您可以在 **[Issues](./issues)** 中发帖来帮我们增进内容。
+您可以在 **[Issues](https://github.com/wwdzcdb/RogueSoftware-List/issues)** 中发帖来帮我们增进内容。
 
 格式如下：
 
